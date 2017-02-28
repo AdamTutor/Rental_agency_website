@@ -78,3 +78,33 @@ background: url("img/logo.png") no-repeat center;
      height: 40px;
      background: url(img/menu.png) center;
  }
+
+ a:hover#menu-icon{
+     border-radius: 4px 4px 0 0; 
+
+
+ }
+
+
+ ul{
+
+     list-style-type: none;
+ }
+
+ nav ul li {
+
+     font-size: 150%;
+     display: inline-block;
+     float: left;
+     padding: 10px;
+ }
+
+ nav ul li a{
+
+    color: #A499B3
+ }
+
+ nav ul li a:hover{
+
+     color: blue;
+ }
