@@ -1,0 +1,32 @@
+* {
+margin: 0;
+padding: 0;
+border: 0;
+}
+
+body {
+    background: #A499B3;
+    margin: 0;
+    color: #1B1725; 
+}
+
+h2{
+    font-size: 250%;
+    font-weight: 700;
+    text-align: center;
+    padding-top: 2%;
+}
+
+h3{
+    font-size: 175%;
+    line-height: 155%;
+    padding: 5% 0;
+    font-weight: 400;
+}
+
+
+p{
+    font-size: 170%;
+    line-height: 110%;
+    padding: 5%;
+}
