@@ -5,7 +5,7 @@ border: 0;
 }
 
 body {
-    background: #A499B3;
+    background: #226;
     margin: 0;
     color: #1B1725; 
 }
@@ -15,6 +15,7 @@ h2{
     font-weight: 700;
     text-align: center;
     padding-top: 2%;
+    color: #F5F5F5
 }
 
 h3{
@@ -26,7 +27,8 @@ h3{
 
 
 p{
-    font-size: 170%;
+    color: #F5F5F5;
+    font-size: 150%;
     line-height: 110%;
     padding: 5%;
     text-indent: 4%;
@@ -34,12 +36,6 @@ p{
 }
 
 
-img{
-max-width: 100%;
-width: auto;
-height: auto;
-margin-bottom: -4px;
-} 
 
 
 header{
@@ -128,8 +124,116 @@ background: url("img/logo.png") no-repeat center;
 
 
 .icons{
-    width: 25%
+    width: 25%;
     float: left;
     text-align: center;
 
 }
+
+
+#Home{
+
+    background-color:#534B62;
+}
+
+#Store{
+
+background-color: #A499B3;
+
+}
+
+.icons i {
+color: #F0F0F0;
+font-size: 500%;
+padding: 13% 0 4% 0;
+
+
+}
+
+
+.inner-wrapper{
+
+float: left;
+width: 100%; 
+background-color: #C3D7DF;
+
+}
+
+article {
+float: left; 
+width: 50%;
+height: auto;
+}
+
+#ps4 {
+
+   background-color: #C3D7DF 
+}
+
+aside{
+    float: right; 
+    margin: 0 auto;
+    width: 50%;
+    height: auto;
+}
+
+
+
+#ps42 {
+
+    background-color: #565391
+}
+
+#xbox1{
+    background-color: #1B1725;
+}
+
+#gamingcomputer{
+    background-color: #A499B3
+}
+
+.inner-wrapper-2{
+    float: left; 
+    width: 100%;
+    background-color: #C3D7DF
+}
+
+.inner-wrapper-3{
+
+float: left;
+width: 100%;
+background-color: #AADCD2;
+}
+
+.section-3{
+
+width: 33.3333333%;
+float: left;
+text-align: center;
+}
+
+.section-3 h3{
+
+    color: #1B1725
+}
+#accessories{
+
+    background-color: #565391;
+}
+#prices{
+    
+    background-color: #6991AC
+
+}
+
+#about{
+    background-color: #807EAF;
+}
+
+/* Start footer */
+
+footer {
+    background-color: #1E1B59;
+
+}
+
