@@ -29,4 +29,52 @@ p{
     font-size: 170%;
     line-height: 110%;
     padding: 5%;
+    text-indent: 4%;
+    text-align: justify;
 }
+
+
+img{
+max-width: 100%;
+width: auto;
+height: auto;
+margin-bottom: -4px;
+} 
+
+
+header{
+background-color: #1B1725;
+width: 100%;
+height: 80px;
+}
+
+
+#header-inner{
+    max-width: 1200px;
+    margin: 0 auto;
+
+}
+
+#logo {
+margin: 20px;
+float: left;
+width: 200px;
+height: 60px;
+position: relative;
+bottom: 10px;
+right: 230px;
+background: url("img/logo.png") no-repeat center;
+
+}
+ /* start navigation bar*/
+ nav {
+     float: right;
+     padding: 25px 20px 0 0;
+ }
+
+ #menu-icon{
+     display: hidden;
+     width: 40px;
+     height: 40px;
+     background: url(img/menu.png) center;
+ }
