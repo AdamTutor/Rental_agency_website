@@ -400,6 +400,22 @@ iPad 3
 }
 /* Desktops and laptops ----------- */
 @media only screen  and (min-width : 1224px) {
+    #xboximg {
+        width: 800px;
+        height: 400px;
+    }
+    
+    #ps4img {
+  width: 800px;
+        height: 400px;
+    }
+
+    #computerimg{
+        width: 800px;
+        height: 400px;
+
+
+    }
   body{
         font-size: 15px;
     }
