@@ -1,12 +1,50 @@
-h2{
-    font-size: 150%;
+h1{
     font-weight: 700;
     text-align: center;
+    color: black;
+    
     padding-top: 2%;
-    color: blue;
+    padding-bottom: 2%;
 }
 
-section{
-border: dotted;
+#main-header{
+clear: both;
+margin: 0 0 0 0;
+ padding-top: 2%;
+    padding-bottom: 2%;
+}
 
+
+
+section{
+
+}
+div{
+border: 1px solid black;
+padding: 2%;
+background-color: #A499B3;
+
+}
+
+img{
+    width: 100%;
+}
+ nav {
+     float: right;
+     padding: 25px 20px 0 0;
+     background-color: #1B1725;
+     width: 100%;
+ }
+
+
+.row1 {
+line-height: 0.8;
+    font-size: 50%;
+    font-weight: normal
+    ;
+}
+
+#button {
+    clear: both;
+    align-self: center;
 }
