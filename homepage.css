@@ -4,6 +4,10 @@ padding: 0;
 border: 0;
 }
 
+
+
+
+
 body {
     background: #226;
     margin: 0;
@@ -113,10 +117,25 @@ background: url("img/logo.png") no-repeat center;
     color: #C3D7DF
  }
 /* navigation bar style finished */
-.banner {
-    width: 100%;
-    background-color: #1B1725
+.banner {background: url(img/newbanner.png) no-repeat center top;
+margin-top: 0px;
+padding-top: 60px;
+text-align: center;
+background-attachment: relative;
+background-position: center center;
+min-height: 480px;
+width: 100%;
+-webkit-background-size: 100%;
+-moz-background-size: 100%;
+-o-background-size: 100%;
+background-size: 100%;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+/* background-size: cover; */
 }
+
+
 .banner-inner {
     max-width: 1100px;
     margin: 0 auto; 
@@ -212,7 +231,7 @@ background-color: #AADCD2;
 }
 
 .section-3{
-
+height: 100%;
 width: 33.3333333%;
 float: left;
 text-align: center;
